@@ -1,4 +1,4 @@
-# 🌟 School Association of Matara (2005) Batch | Official Website
+# 🌟 Inter School Association of Matara (2005) Batch | Official Website
 
 Welcome to the development repository for the Inter School Association of Matara (2005) Batch website! 🎉 This platform is designed to reconnect and engage our alumni, offering an easy and beautiful way to stay connected, share memories, and celebrate our journey. 💫
 
