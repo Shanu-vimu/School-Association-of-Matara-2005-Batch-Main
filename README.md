@@ -18,7 +18,7 @@ Welcome to the development repository for the Inter School Association of Matara
 
 ## Why this project? 💡
 
-This website is more than just a digital platform—it's a living, breathing community for the 2005 batch. Whether you're here to keep up with the latest events, contribute to charitable programs, or simply relive great memories, this space is designed to keep our alumni legacy alive and thriving. 🌟
+This website is more than just a digital platform.it's a living, breathing community for the 2005 batch. Whether you're here to keep up with the latest events, contribute to charitable programs, or simply relive great memories, this space is designed to keep our alumni legacy alive and thriving. 🌟
 
 ## Technical Overview
 
